@@ -1,4 +1,4 @@
-Here is Project **Which is corrently not working** i will surely fix it soon.
+Here is Project **Which is corrently not working properly** i will surely fix it soon.
 
 IDE: NETBEANS
 Tech stack: Java
